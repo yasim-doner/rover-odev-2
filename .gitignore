@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+/Stop-Sign.v1i.tensorflow
+
 # User-specific files
 *.rsuser
 *.suo
